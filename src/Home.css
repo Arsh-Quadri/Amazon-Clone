@@ -1,0 +1,10 @@
+.home__row {
+  width: 97%;
+  margin: auto;
+  display: flex;
+}
+.howup {
+  position: absolute;
+  top: 50vh;
+  width: 100%;
+}
